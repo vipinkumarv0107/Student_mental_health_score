@@ -1,7 +1,7 @@
 (() => {
   "use strict";
 
-  const API_BASE = "https://Student_Mental_health_score.com";
+  const API_BASE = "https://student-mental-health-score-bwwm.onrender.com";
   const STATUS_TIMEOUT_MS = 6000;
   const STATUS_POLL_MS = 20000;
 
